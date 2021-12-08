@@ -1,0 +1,15 @@
+*{
+	margin:0px;
+	padding:0px; 
+	box-sizing:border-box;
+}
+body{
+	background-color:#0089BA;
+
+.center{
+	text-align:center;
+}
+div h1{
+	
+	color:red;
+}
