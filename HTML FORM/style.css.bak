@@ -1,0 +1,14 @@
+*{
+	margin:0;
+	padding:0; 
+	box-sizing:border-box; 
+}
+body{
+	background:#4E8397;
+}
+.container{
+	margin-left:400px;
+	margin-right:500px;
+	padding:15px 200px;
+	background:#D5CABD;
+}
